@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "monaco-editor": "^0.52.2",
+    "mysql2": "^3.14.1",
+    "react-monaco-editor": "^0.58.0",
+    "react-router-dom": "^7.6.3",
+    "react-toastify": "^11.0.5"
+  }
+}

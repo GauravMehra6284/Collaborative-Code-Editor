@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #1e1e1e;  /* same as VS Code dark theme */
+  color: #f3f3f3;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}

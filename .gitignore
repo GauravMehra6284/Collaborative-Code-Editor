@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+
+# React
+client/node_modules/
+client/build/
+
+# Logs
+*.log
+
+# Mac/OS files
+.DS_Store
+
+# Docker
+*.pid
